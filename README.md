@@ -1,2 +1,1 @@
-# coin
- firstcoin
+# solana-npx-client-template
